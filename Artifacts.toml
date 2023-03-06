@@ -1,0 +1,6 @@
+[algoim]
+git-tree-sha1 = "ea11d1a2275e55d93938a73c65cfa5d73649f51c"
+
+    [[algoim.download]]
+    sha256 = "e37a9e53d22e38f350e5528ea2cff0572280f59fb01b89cb163e5cc1910bc994"
+    url = "https://github.com/JuliaBinaryWrappers/algoim_jll.jl/releases/download/algoim-v0.1.0+0/algoim.v0.1.0.any.tar.gz"
